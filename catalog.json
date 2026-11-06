@@ -1,6 +1,30 @@
 {
   "schema": 1,
   "storeName": "XeroZone",
-  "games": [],
-  "updated": "2026-11-06T13:07:53.948Z"
+  "games": [
+    {
+      "id": "xerozoneil-dash",
+      "name": "XeroZoneIL Dash",
+      "tagline": "XeroZone Dash is a community-made game—feel free to jump in and give it a try!",
+      "description": "This is a parkour game.",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/noam-16/xerozone-store/releases/download/xerozoneil-dash-v1.0.0/xerozoneil-dash-1.0.0.html",
+          "sha256": "1623455968b7303a00ea94463e0c4a2243077dd6063b381ed96ac44a84ad826e",
+          "size": 489165,
+          "kind": "html",
+          "notes": "",
+          "date": "2026-11-06T13:07:59.636Z"
+        }
+      ],
+      "createdAt": "2026-11-06T13:07:59.636Z",
+      "current": "1.0.0",
+      "cover": {
+        "url": "https://github.com/noam-16/xerozone-store/releases/download/xerozoneil-dash-v1.0.0/xerozoneil-dash-cover-1.0.0.jpg",
+        "sha256": "28c4538b396aecd677b4f04ace205b56144fc438af3d64e38a81f4bd0df5192c"
+      }
+    }
+  ],
+  "updated": "2026-11-06T13:08:00.039Z"
 }
