@@ -9,6 +9,15 @@
       "description": "This is a parkour game.",
       "versions": [
         {
+          "version": "1.0.2",
+          "url": "https://github.com/noam-16/xerozone-store/releases/download/xerozoneil-dash-v1.0.2/xerozoneil-dash-1.0.2.html",
+          "sha256": "5747b525440d00bdeaa15927d597c78b688690a326b19e1102267b2d70ba8c66",
+          "size": 497937,
+          "kind": "html",
+          "notes": "",
+          "date": "2026-11-06T13:40:57.298Z"
+        },
+        {
           "version": "1.0.1",
           "url": "https://github.com/noam-16/xerozone-store/releases/download/xerozoneil-dash-v1.0.1/xerozoneil-dash-1.0.1.html",
           "sha256": "1623455968b7303a00ea94463e0c4a2243077dd6063b381ed96ac44a84ad826e",
@@ -28,12 +37,12 @@
         }
       ],
       "createdAt": "2026-11-06T13:07:59.636Z",
-      "current": "1.0.1",
+      "current": "1.0.2",
       "cover": {
         "url": "https://github.com/noam-16/xerozone-store/releases/download/xerozoneil-dash-v1.0.0/xerozoneil-dash-cover-1.0.0.jpg",
         "sha256": "28c4538b396aecd677b4f04ace205b56144fc438af3d64e38a81f4bd0df5192c"
       }
     }
   ],
-  "updated": "2026-11-06T13:09:53.469Z"
+  "updated": "2026-11-06T13:40:57.678Z"
 }
